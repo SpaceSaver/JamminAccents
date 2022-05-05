@@ -1,4 +1,4 @@
-# ![Logo](https://raw.githubusercontent.com/SpaceSaver/JamminAccents/main/logos/Jamminx64.png)Jammin' Accents
+# ![J́](https://raw.githubusercontent.com/SpaceSaver/JamminAccents/main/logos/JamminT.png)ammin' Accents
 ## A project to bring accents to Jamboard
 Made by request for my French teacher.
 
